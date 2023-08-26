@@ -1,4 +1,4 @@
-from distance_metrics import*
+from .distance_metrics import*
 class KNNBase:
     def __init__(self, k=5, metric='euclidean'):
         self.k = k

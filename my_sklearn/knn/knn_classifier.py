@@ -1,4 +1,4 @@
-from knn_base import KNNBase
+from .knn_base import KNNBase
 from collections import Counter
 import numpy as np
 
