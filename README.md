@@ -15,5 +15,5 @@ My version of the sklearn library.
 
 ## Inspiration
 
-**[Machine Learning From Scratch](https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&pp=iAQB)**
-**[Scikit-learn](https://scikit-learn.org/)**
+- **[Machine Learning From Scratch](https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&pp=iAQB)**
+- **[Scikit-learn](https://scikit-learn.org/)**
