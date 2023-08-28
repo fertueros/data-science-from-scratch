@@ -1,1 +1,1 @@
-from . import knn
+from . import neighbors

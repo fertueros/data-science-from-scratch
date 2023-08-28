@@ -1,4 +1,6 @@
-from .distance_metrics import*
+#from .distance_metrics import*
+from ..metrics.pairwise import*
+
 class KNNBase:
     def __init__(self, k=5, metric='euclidean'):
         self.k = k
@@ -10,9 +12,9 @@ class KNNBase:
     
     def _compute_distance(self, x1, x2):
         if self.metric == 'euclidean':
-            return euclidean_distance(x1, x2)
+            return euclidean_distances(x1, x2)
         elif self.metric == 'manhattan':
-            return manhattan_distance(x1, x2)
+            return manhattan_distances(x1, x2)
         else:
             raise ValueError(f"Unknown metric: {self.metric}")
 
