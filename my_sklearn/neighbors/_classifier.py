@@ -2,7 +2,7 @@ from ._base import KNNBase
 from collections import Counter
 import numpy as np
 
-class KNNClassifier(KNNBase):
+class KNeighborsClassifier(KNNBase):
     def predict(self, X):
         y_pred = [self._predict(x) for x in X]
         return np.array(y_pred)

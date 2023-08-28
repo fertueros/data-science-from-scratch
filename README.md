@@ -1,14 +1,19 @@
-Data Science from Scratch
-=========================
+Machine Learning from Scratch
+=============================
 
-My extension of the book data science from scratch.
+My version of the sklearn library.
 
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-## Table of Contents
+## Modules
 
-1. Introduction
-2. A Crash Course in Python
+1. neighbors
+2. Linear Models
 3. 
+
+## Inspiration
+
+[Machine Learning From Scratch] (https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&pp=iAQB)
+[Scikit-learn] (https://scikit-learn.org/)
