@@ -1,13 +1,13 @@
 Machine Learning from Scratch
 =============================
 
-My version of the sklearn library.
+Destilando el machine learning
 
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# Contenidos
+# Contenido
 ## I Aprendizaje Supervisado
 1. **Regresión Lineal**
     1. Algoritmo LMS
